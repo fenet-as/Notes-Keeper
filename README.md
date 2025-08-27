@@ -1,6 +1,6 @@
 # Notebook App
 
-A simple notes app built with HTML, CSS, and JavaScript.
+A simple notes web app built with HTML, CSS, and JavaScript.
 
 ## Features
 
